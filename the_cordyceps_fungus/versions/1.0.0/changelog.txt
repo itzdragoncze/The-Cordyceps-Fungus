@@ -1,0 +1,20 @@
+1.3.0 Visuals and Structure Update
+
+Changes
+- When updating your modpack your options won't be reseted
+- You can see in main manu if there is available update to the modpack
+- few bug fixes
+
+Mod Changes
+- added Default Options
+- added Modpack Update Checker
+- added create better fps
+- added better cloud
+- added fog
+- added Dungeon Crawl
+- added Feur Extension Fossil
+- added It Takes a Pillage
+- added MES - Moog's End Structures
+- added MNS - Moog's Nether Structures
+- added MVS - Moog's Voyager Structures
+- removed battle towers
