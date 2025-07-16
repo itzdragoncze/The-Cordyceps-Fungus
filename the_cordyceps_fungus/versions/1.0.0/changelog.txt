@@ -1,11 +1,13 @@
 1.0.0 Visuals and Structure Update
 
 Changes
+
 - When updating your modpack your options won't be reseted
 - You can see in main manu if there is available update to the modpack
 - few bug fixes
 
 Mod Changes
+
 - added Default Options
 - added Modpack Update Checker
 - added create better fps
