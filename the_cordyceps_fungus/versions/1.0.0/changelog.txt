@@ -1,4 +1,4 @@
-1.3.0 Visuals and Structure Update
+1.0.0 Visuals and Structure Update
 
 Changes
 - When updating your modpack your options won't be reseted
